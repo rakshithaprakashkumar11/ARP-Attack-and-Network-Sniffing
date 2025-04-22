@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2999dacb-7866-4ffd-b2ff-71dee59ef949)# ARP-Attack-and-Network-Sniffing
+# ARP-Attack-and-Network-Sniffing
 # Explore Network Sniffing and ARP Attacks
 
 # AIM:
